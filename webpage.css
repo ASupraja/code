@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .firstsection{
+            background-color: rgb(163, 167, 167);
+            height: 200px;
+            width: 400px;
+        }
+        .gfg{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            
+        }
+    </style>
+</head>
+<body>
+    <section class="firstsection">
+        <button class="gfg">I'm Supraja</button>
+        
+        <button class="gfg"> A Full Stack developer</button>
+    </section>
+
+    <img src="https://images1.livehindustan.com/uploadimage/library/2021/03/03/16_9/16_9_6/ketki_phool_1614746386.jpg" a="Ketaki flower"/>
+
+</html>
+
